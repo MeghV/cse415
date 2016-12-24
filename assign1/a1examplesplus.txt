@@ -1,0 +1,19 @@
+>>> three_x_cubed_plus_5(20)
+24005
+>>> three_x_cubed_plus_5(29)
+73172
+
+>>> mystery_code("aBc 1BC1!!bcser", 4)
+'EfG 1fg1!!FGWIV'
+>>> mystery_code("aBcFFFndfwi f dj 235", 20)
+'UvWzzzHXZQC Z XD 235'
+
+>>> quadruples([1])
+[[1]]
+>>> quadruples([1,5,6,7,45,346,223,4])
+[[1, 5, 6, 7], [45, 346, 223, 4]]
+
+>>> past_tense(["eat","go","jump","drown","cry"])
+['ate', 'went', 'jumped', 'drowned', 'cried']
+>>> past_tense(['program', 'debug', 'execute', 'crash', 'repeat', 'eat'])
+['programmed', 'debugged', 'executed', 'crashed', 'repeated', 'ate']

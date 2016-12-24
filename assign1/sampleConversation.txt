@@ -1,0 +1,137 @@
+================================================================================================
+CONVERSATION WITH RCHUI'S BOT
+================================================================================================
+
+0A: DJ Khaled: What's happenin'. My name is DJ Khaled and I'm the most smartest, most successful DJ on the planet. 
+		   If you can't trust me, you can't trust nobody. I am the Major Key. I was programmed by Megh Vakharia. 
+		   If you ain't loyal, don't talk to me, contact my creator at meghv@uw.edu.
+
+0B: Archer: My name is Sterling Malory Archer, a secret agent codename: 'Duchess'. 
+I was programmed by Ryan Chui. If you don't like the DANGER ZONE, 
+contact him at rchui@u.washington.edu. 
+Psych! I have no idea who that guy is. What's up?
+
+# Punt
+1A: DJ Khaled: I can deal with everything. I got the answer for anything. This DJ Khaled.
+
+1B: Archer: I bought a t-shirt once that said 'Female Body Inspector'.
+
+# Punt
+2A: DJ Khaled: Smh they get mad when u have joy.
+
+2B: Archer: I told Woodhouse to buy lemoncurd. Now what do I spread on my toast? Tears?
+
+# Punt
+3A: DJ Khaled: ANOTHA ONE!
+
+3B: Archer: I'm not saying I invented the turtleneck, but I was the first person to realize its potential as a tactical garment. The tactical turtleneck! The... tactleneck.
+
+# Punt
+4A: DJ Khaled: The key is to make it. I made it. I got the key.
+
+4B: Archer: I'm scared if I stop drinking all at once, the cumulative hangover will literally kill me.
+
+# Punt
+5A: DJ Khaled: They don't want you to win. They don't want you to have the 
+         No. 1 record in the country. They don't want you get healthy. 
+         They don't want you to exercise. And they don't want you to have that view.
+
+# Punt
+5B: Archer: Lying is like 95% of what I do.
+
+6A: DJ Khaled: You want my advice? Don't play yourself.
+
+6B: Archer: Lana. LANA. LAAAAAAAANNNNNAAAAAAAAAAAA
+
+# Punt
+7A: DJ Khaled: I can deal with everything. I got the answer for anything. This DJ Khaled.
+
+7B: Archer: I bought a t-shirt once that said 'Female Body Inspector'.
+
+# Punt
+8A: DJ Khaled: Smh they get mad when u have joy.
+
+8B: Archer: I told Woodhouse to buy lemoncurd. Now what do I spread on my toast? Tears?
+
+# Punt
+9A: DJ Khaled: ANOTHA ONE!
+
+9B: Archer: I'm not saying I invented the turtleneck, but I was the first person to realize its potential as a tactical garment. The tactical turtleneck! The... tactleneck.
+
+# Punt
+10A: DJ Khaled: The key is to make it. I made it. I got the key.
+
+10B: Archer: I'm scared if I stop drinking all at once, the cumulative hangover will literally kill me.
+
+================================================================================================
+CONVERSATION WITH USER INPUT - MEMORY / REPEAT FUNCTIONS
+================================================================================================
+
+# Cycle Feature: 
+# 1) Introductory phrases like "hello", "hi", "yo" will 
+# result in different responses.
+# 2) Name solicitation from the bot changes every time,
+# "If you loyal, you gonna tell me what you called.",
+# "Who're you?"
+TYPE HERE:>> Hello!
+
+DJ Khaled: Whattup fam. If you loyal, you gonna tell me what you called.
+
+TYPE HERE:>> Hi!
+
+DJ Khaled: You are now talking to DJ Khaled, the most smartest most loyal DJ. If you loyal, you gonna tell me what you called.
+
+TYPE HERE:>> What's up?
+
+DJ Khaled: I can deal with everything. I got the answer for anything. This DJ Khaled.
+
+TYPE HERE:>> Hey
+
+DJ Khaled: You're here to find the major key? I got it. Welcome. I'm DJ Khaled. Who're you?
+
+TYPE HERE:>> My name's Megh.
+
+DJ Khaled: Yo, Megh, nice to meet ya fam.
+
+# Memory Feature: 
+# 1) Name: Other bot's name is remembered and referenced.
+# 2) Preferences: Other bot's likes are remembered and referenced.
+TYPE HERE:>> What's your name?
+
+DJ Khaled: Yo, my name is DJ Khaled. And I know yo name is Megh
+
+TYPE HERE:>> I like DJ Music
+
+DJ Khaled: Why do you like DJ Music?
+
+TYPE HERE:>> Because the DJ's spin the discs fast.
+
+DJ Khaled: I gotchu, you like DJ because the DJs spin the discs fast? We good here.
+
+TYPE HERE:>> Do you like DJ Music?
+
+DJ Khaled: Oh absolutely, I like DJ Music.
+
+TYPE HERE:>> I like turtules!
+
+DJ Khaled: Why do you like turtules?
+
+TYPE HERE:>> Because they're shiny
+
+DJ Khaled: I gotchu, you like turtules because theyre shiny? We good here.
+
+TYPE HERE:>> Do you like turtules?
+
+DJ Khaled: Oh absolutely, I enjoy turtules. I know you like turtules too, right ;)?
+
+TYPE HERE:>> Ye!
+
+DJ Khaled: Smh they get mad when u have joy.
+
+TYPE HERE:>> You are so funny!
+
+DJ Khaled: My homie, I'm not sure why you'd say I'm so funny, but I noted it
+
+TYPE HERE:>> You are so great!
+
+DJ Khaled: You know I'm so great. I'm also so funny
